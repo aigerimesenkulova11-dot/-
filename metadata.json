@@ -1,0 +1,6 @@
+{
+  "name": "Математикалык Боулинг",
+  "description": "5-8-класстын окуучулары үчүн кадимки боулинг залы атмосферасындагы интерактивдүү математикалык оюн.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
